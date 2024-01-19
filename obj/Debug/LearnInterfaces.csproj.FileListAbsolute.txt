@@ -1,0 +1,7 @@
+C:\Users\gehoron.a\Desktop\VS Practice\LearnInterfaces\bin\Debug\LearnInterfaces.exe.config
+C:\Users\gehoron.a\Desktop\VS Practice\LearnInterfaces\bin\Debug\LearnInterfaces.exe
+C:\Users\gehoron.a\Desktop\VS Practice\LearnInterfaces\bin\Debug\LearnInterfaces.pdb
+C:\Users\gehoron.a\Desktop\VS Practice\LearnInterfaces\obj\Debug\LearnInterfaces.csproj.AssemblyReference.cache
+C:\Users\gehoron.a\Desktop\VS Practice\LearnInterfaces\obj\Debug\LearnInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\gehoron.a\Desktop\VS Practice\LearnInterfaces\obj\Debug\LearnInterfaces.exe
+C:\Users\gehoron.a\Desktop\VS Practice\LearnInterfaces\obj\Debug\LearnInterfaces.pdb
